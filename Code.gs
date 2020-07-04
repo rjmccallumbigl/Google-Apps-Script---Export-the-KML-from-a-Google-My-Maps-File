@@ -6,6 +6,7 @@
 * https://developers.google.com/apps-script/reference/drive/file#setsharingaccesstype,-permissiontype
 * https://stackoverflow.com/questions/25595507/google-maps-engine-export-kml-curl
 * https://stackoverflow.com/questions/45284798/using-google-app-script-unzip-a-file-from-google-drive
+* https://www.reddit.com/r/GoogleAppsScript/comments/hgrbap/is_there_a_way_to_import_caption_from_youtube/
 */
 
 function exportMaptoKML() {
